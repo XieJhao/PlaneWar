@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "飞机大战", "飞机大战.csproj", "{DAB4B206-40AA-43DA-AE9E-C01FDCF1581B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAB4B206-40AA-43DA-AE9E-C01FDCF1581B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAB4B206-40AA-43DA-AE9E-C01FDCF1581B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAB4B206-40AA-43DA-AE9E-C01FDCF1581B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAB4B206-40AA-43DA-AE9E-C01FDCF1581B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {044FC77A-D8B0-4569-AF73-1E91A2152626}
+	EndGlobalSection
+EndGlobal
